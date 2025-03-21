@@ -2,4 +2,4 @@
 This is a demo repo
 
 <br>
-Writing this for practicingcommit
+Writing this for practicing commit
